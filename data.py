@@ -1,4 +1,5 @@
-import pandas as pd
+# this is for get a idea of distribution of data set of csv file
+import pandas as pd    
 import matplotlib.pyplot as plt
 data = pd.read_csv('data.csv')
 
