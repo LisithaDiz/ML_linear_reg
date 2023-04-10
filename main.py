@@ -58,4 +58,4 @@ plt.subplot(1, 2, 2)
 plt.plot(metrix_x, metrix_y)
 plt.xlabel('n th epoch')
 plt.ylabel('Loss value')
-plt.show()
+plt.show()    # you can see the output of this in Wiki
